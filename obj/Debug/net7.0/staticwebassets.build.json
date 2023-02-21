@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/9L3hZznTA5VTYM0I8PRuZPHh/t67VzkQkgL/nd/L4U=",
+  "Source": "testthird",
+  "BasePath": "_content/testthird",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testthird\\wwwroot",
+      "Source": "testthird",
+      "ContentRoot": "C:\\Users\\Nevra\\projects\\vsCode\\testthird\\wwwroot\\",
+      "BasePath": "_content/testthird",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nevra\\projects\\vsCode\\testthird\\wwwroot\\index.html",
+      "SourceId": "testthird",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nevra\\projects\\vsCode\\testthird\\wwwroot\\",
+      "BasePath": "_content/testthird",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
